@@ -1,8 +1,8 @@
-#Hello world! This is a heading
+# Hello world! This is a heading
 
-##This is a section heading
+## This is a section heading
 
-###this is a subheading
+### this is a subheading
 
 >quotes
 >etc.
